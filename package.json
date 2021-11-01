@@ -1,6 +1,6 @@
 {
   "name": "sraft-convert",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Draft-js format conversion tool",
   "main": "js/index.js",
   "scripts": {
